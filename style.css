@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
+font-weight: bolder;
+}
+.container1{
+    height: 80vh;
+    background-color: rgba(0, 238, 63, 0.146);
+    background-image: url('img/sobremi.webp'); /* Reemplaza con tu imagen de fondo */
+    background-position: 85%;
+    background-repeat: no-repeat;
+
+  }
+
+@media (max-width:990px){
+    .container1{
+        height: 60vh;
+        background-size: 39%;
+        background-position: right;
+    }
+}
+.subrayado-border {
+    animation: subraya 3s normal forwards;
+    padding-right: 25px;
+    border-bottom: none; /* Puedes ajustar el color y el grosor del subrayado */
+    padding-bottom: 3px; /* Ajusta el espacio entre el texto y el subrayado según sea necesario */
+    display: inline; /* Hace que el subrayado afecte solo al contenido del elemento, no al contenedor completo */
+  
+}
+@keyframes subraya{
+   0%{
+     border-bottom: none;
+   }
+   100%{
+  
+    border-bottom: 2px solid #34db74;
+   }
+}
+
+
+.container2{   
+    height: max-content;
+    background-color: rgb(223, 223, 223);
+    overflow: hidden;
+}
+
+.container2 .row .col-6 img{
+    width: 80%;
+    height: 65vh;
+    margin-left:20% ;
+   box-shadow: 0px 5px 15px #00000098 ;
+}
+
+.container2 .row .col-6 p{
+    padding: 30px;
+    text-align: justify;
+}
+
+.progress{
+    margin: 15px;
+    background-color: rgb(184, 180, 180);
+    justify-content: flex-start;
+    border-radius: 50px;
+    align-items: center;
+    position: relative;
+    display: flex;
+    height: 25px;
+    width: 90%;
+}
+.pro-value1, .pro-value2{
+    animation: load1 7s normal forwards;
+    border-radius: 50px;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+.pro-value3{
+    animation: load3 7s normal forwards;
+    border-radius: 50px;
+    background-color: black;
+    height: 25px;
+    width: 0; 
+}
+.pro-value4{
+    animation: load4 7s normal forwards;
+    border-radius: 50px;
+    background-color: black;
+    height: 25px;
+    width: 0; 
+}
+.pro-value5{
+    animation: load5 7s normal forwards;
+    border-radius: 50px;
+    background-color: black;
+    height: 25px;
+    width: 0; 
+}
+
+.progress p{
+    padding-top: 3px;
+    padding-left: 15px;
+    float: left;
+    color: white;
+}
+@keyframes load1{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 70%;
+    }
+}
+@keyframes load3{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 60%;
+    }
+}
+
+@keyframes load4{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 85%;
+    }
+}
+
+@keyframes load5{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 80%;
+    }
+}
+
+
+@media (max-width:600px){
+    .invertir{ 
+        display: flex !important;
+        flex-direction: column !important; }
+
+}
+
+
+.container3{
+    height: max-content;
+}
+
+
+.card{
+    border: none;
+    outline: none;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.297);
+
+}
+
+.card p{
+    color: gray;
+}
+
+.circle{
+    height: 70px;
+    width: 70px;
+    background-color: lightgray;
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+    padding: 12px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.card:hover .circle{
+background-color: black;
+color: white;
+transition: 0.7s;
+}
+
+
+.container4{
+    height: max-content;
+    
+
+}
+.item{
+position: relative;   
+cursor: pointer;
+}
+.item span{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    font-size: 24px;
+    color: #ffffff;
+ 
+    opacity: 0;
+}
+
+.item:hover span{
+ opacity: 1;
+ transition:  0.7s;
+}
+    
+.item:hover {
+box-shadow: 0.5px 0.5px 10px rgba(0, 0, 0, 0.114);
+transition:  0.7s;
+}
+
+.item:before{
+    content: "";
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(52, 53, 54, 0.801);
+    opacity: 0;
+    position:absolute;
+}
+
+.item:hover:before{
+opacity:1 ;
+transition: 0.5s;
+}
+
+
+.container5 .row .iconos-contacto a{
+    font-size: 35px;
+   color: #6c757d;
+}
+
