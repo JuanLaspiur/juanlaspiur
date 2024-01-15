@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Página persola, con errores, ej. los lorem, pero pronto la estaré editando.
+Pag personal
 https://juanlaspiur.github.io/juanlaspiur/
