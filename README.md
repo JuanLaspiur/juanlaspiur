@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Pag personal
+<h1>Pag personal</h1>
 https://juanlaspiur.github.io/juanlaspiur/
+
+
