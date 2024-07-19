@@ -6,7 +6,7 @@ https://juanlaspiur.github.io/juanlaspiur/
 
 - Languages: JavaScript, JAVA, HTML, CSS
 - Frameworks and Libraries: React, Node.js, SPRING, Hibernate
-- Databases: MariaDB, MySQL
+- Databases: MongoDB, MariaDB, MySQL
 - Tools and Environments: Git
 
 ## Contact-
