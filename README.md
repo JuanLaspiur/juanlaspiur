@@ -4,7 +4,7 @@ https://juanlaspiur.github.io/juanlaspiur/
 
 ## Skills
 
-- Languages: JavaScript, JAVA, HTML, CSS
+- Languages: JavaScript, JAVA
 - Frameworks and Libraries: React, Node.js, SPRING, Hibernate
 - Databases: MongoDB, MariaDB, MySQL
 - Tools and Environments: Git
