@@ -4,9 +4,9 @@ https://juanlaspiur.github.io/juanlaspiur/
 
 ## Skills
 
-- Languages: JavaScript, JAVA
-- Frameworks and Libraries: React, Node.js, SPRING, Hibernate
-- Databases: MongoDB, MariaDB, MySQL
+- Languages: JavaScript
+- Frameworks and Libraries: React, Node.js
+- Databases: MongoDB, MariaDB, MySQL, GraphQL
 - Tools and Environments: Git
 
 ## Contact-
