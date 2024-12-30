@@ -5,7 +5,7 @@ https://spartusdevs.netlify.app/
 ## Skills
 
 - Languages: JavaScript
-- Frameworks and Libraries: React, Node.js
+- Frameworks and Libraries: React, Node.js, Java
 - Databases: MongoDB, MariaDB, MySQL, GraphQL
 - Tools and Environments: Git
 
