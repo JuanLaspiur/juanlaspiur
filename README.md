@@ -15,3 +15,4 @@ https://spartusdevs.netlify.app/
  Instagram: [@jlaspiur](https://www.instagram.com/jlaspiur/)</li>
 🔗 LinkedIn: [Juan Laspiur](https://www.linkedin.com/in/laspiurperezjuan/)
 
+La mayoría de mis proyectos son confidenciales. 
