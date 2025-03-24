@@ -1,6 +1,6 @@
 
 <h1>Hi there 👋 Laspiur Juan - Personal Page</h1>
-https://spartusdevs.netlify.app/
+https://personal-webpage-frontend.vercel.app/
 
 ## Skills
 
